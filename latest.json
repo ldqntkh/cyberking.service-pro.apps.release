@@ -1,0 +1,10 @@
+{
+    "version": "0.0.1",
+    "notes": "Cyberking Server Pro app",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWJwUkZzNmNSL2I0dWNwV0VnWS9jZWI5YUc0aEFaQnRGczZ3NEhYWkRKZGQrTTQxWXFPN2g3a0JoRVRqaC9kemlUWDR6amdxQ0hqbTUwRkR1NXBUNFh5RzVDQzdSTlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjQyNjg4CWZpbGU6Q3liZXJraW5nX1NlcnZlcl9Qcm9fMC4wLjFfeDY0LXNldHVwLmV4ZQpzSFhVSldaNG9FQWJZeXZFZzRxcFpFenNJYkxnM3FJMVM5c3VGVnlQKzVLb0szNU91dkZ4WFgzdHlWZ0luRGlFS0hJV0RNZmhtendoSjZsbWhzOVJCUT09Cg==",
+            "url": "https://github.com/ldqntkh/cyberking.service-pro.apps/releases/download/v0.0.1/Cyberking_Server_Pro_0.0.1_x64_en-US.exe"
+        }
+    }
+}
