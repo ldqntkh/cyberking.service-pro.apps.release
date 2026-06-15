@@ -3,7 +3,7 @@
     "notes": "Cyberking Server Pro app",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWJwUkZzNmNSL1cydFRpOUV1NTdFTDE4a1Z5dlVhVTNER0dOaDYyNmdsblZzRGJ4MWQ2Y2prRzhOWHc3M3dCa0JucVNPM0VKMWl6ZnJvOFpnWHZZcmpxWk1pUDNBWmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDQ5MjM3CWZpbGU6Q3liZXJraW5nX1NlcnZlcl9Qcm9fMC4wLjFfeDY0LXNldHVwLmV4ZQpNZ0Rkb1NPeTRKRVBmS1d1cVQyUG0zSUFUdmFMTkZEN0JxQmFVWllTenk2UzhndGhTT1RXNnBnZkNUNzF0czFZYUdBRGhUUlE2bFlSeTBYcmI1ZUNBQT09Cg==",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWJwUkZzNmNSL1VNRXR5Ynd0WGtFcnV4cXRRRERLdTBSSWVISzBFQ1lTWng2YXJjQlcxeDhseDE5ZHRjK3c1N1QwQnI0WGcxOEp3NXE3UTNGVjNZTVdHUjEwZWRtL1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNTM1OTYwCWZpbGU6Q3liZXJraW5nX1NlcnZlcl9Qcm9fMC4wLjFfeDY0LXNldHVwLmV4ZQpJNnIyWTVMQmhQRXluWkZFVzhYcDlJUTBHQzNYY1d6N2VJYlEzZEEvVk43V0kzZng1N2VSZVl4ZjlFbG5PMEJ1aDMvNVY3QzR6ZnZic2J6cjhUNEREdz09Cg==",
             "url": "https://github.com/ldqntkh/cyberking.service-pro.apps.release/releases/download/v0.0.1/Cyberking_Server_Pro_0.0.1_x64-setup.exe"
         }
     }
