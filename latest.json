@@ -3,7 +3,7 @@
     "notes": "CKHUB Server App",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWJwUkZzNmNSL2M0VHpmVWthRStoSVcycmtEbGZ4ODZoVnpVTmRlczlkdXpLYWVtNUVEQTh2N0d2eGhTOWNmb3IxRHNNeHhuQmptb0JZUkNENy9KSWNjQVN2eXMxZWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjU5NTc3CWZpbGU6Q0tIVUJfU2VydmVyXzAuMC4xX3g2NC1zZXR1cC5leGUKa0R3WFlqQUIyVFdEWUhtNkFEcmNjNGVWMmxBSDNQeG9qRHhCRUs5Wi9sR0dmRzNSTXdodUcxc01TQUp4VlM3enV0SytQQUNtMU1NbDRXUDBFaVJoRFE9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWJwUkZzNmNSL2JPS0pXaWxtb3RFV2w5amRvUVltVUZTVklzVzFRMHU1K2lZckMvVUpNcFZZeHBUOGlsQm1ITHRsV24rUnJWR0ZnZUg1aWpFQU1Sd2YzdE5PRW45ZXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzM2MjgzCWZpbGU6Q0tIVUJfU2VydmVyXzAuMC4xX3g2NC1zZXR1cC5leGUKZkE2MWViczF5Yk45Mk1SUXkya0ltSGpyNFIrcEhycFFBY1QrWHZaci9BWFFDV2RqRUl3UU9JQ0J1L0xjVUt0QWdXaDhDTU9vM2c1bG0xdU1rTUhNQUE9PQo=",
             "url": "https://github.com/ldqntkh/cyberking.service-pro.apps.release/releases/download/v0.0.1/CKHUB_Server_0.0.1_x64-setup.exe"
         }
     }
