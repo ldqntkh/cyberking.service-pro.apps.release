@@ -1,10 +1,10 @@
 {
-    "version": "0.0.7",
-    "notes": "CKHUB Server App V0.0.7",
+    "version": "0.0.8",
+    "notes": "CKHUB Server App V0.0.8",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWJwUkZzNmNSL2J0WGVoVU1rV21MTUFDaUlSTmF1TXhCeGVMVk1jSkF0UG9VTGZJTTVoeW9sN21tcDhqSitXN0ZINnNXclAvTndROTNMQ2l6dkVORGVMUHZ3Njl4NVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDYzMzM1CWZpbGU6Q0tIVUJfU2VydmVyXzAuMC43X3g2NC1zZXR1cC5leGUKd28zSUdjUFNpSkY1UUIxN3BJLzZiZ08yZW1lV2w5OHFORmFjTVl5aC9Dc3BUV3E1YlI0a2pBMGJ1QmpVOExyN1BhZ3QyelhxdnRKU3hPMFdaekhaQUE9PQo=",
-            "url": "https://github.com/ldqntkh/cyberking.service-pro.apps.release/releases/download/v0.0.7/CKHUB_Server_0.0.7_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWJwUkZzNmNSL1QwNk1vQnk4Vmxwa3pvVmdpU2VTNVBoeWRNZVVUdVFlYmVQaFlJSjB1L1JaSG5aclFuVXJSWStKbExHNkNnMXVIUkVuclB5ZG1Gby9WTzFZWHNOOUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzYwMzI1CWZpbGU6Q0tIVUJfU2VydmVyXzAuMC44X3g2NC1zZXR1cC5leGUKb3I3OThHQ0t3enMyZFd5WU5oSFhsM1dXNEZGQkQyUkp0VzNmTlNVRDZTUDhBNy9mNkUvdVZxejUyU2xFWUlPVy9MaERkQ3NVQW5GTllNQ0d0a3U0RFE9PQo=",
+            "url": "https://github.com/ldqntkh/cyberking.service-pro.apps.release/releases/download/v0.0.8/CKHUB_Server_0.0.8_x64-setup.exe"
         }
     }
 }
